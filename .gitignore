@@ -1,0 +1,5 @@
+/csv_file/
+/venv/
+/.idea/
+/__pycache__/
+.env
